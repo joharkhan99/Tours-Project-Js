@@ -1,0 +1,4 @@
+# below files will not be uploaded to github repository
+node_modules/
+# also ignore/not upload all files with .env ext
+*.env
