@@ -16,6 +16,7 @@ const reviewRouter = require('./routes/reviewRoutes.js');
 const bookingRouter = require('./routes/bookingRoutes.js');
 const viewRouter = require('./routes/viewRoutes.js');
 
+//Start express app
 const app = express();  //this adds a buch of methods to 'app' variable
 
 //FOR PUG TEMPELATES
